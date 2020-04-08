@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageApi", "ImageApi\ImageApi.csproj", "{46149026-7CF9-4B70-868D-D12DD6669DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest", "ApiTest\ApiTest.csproj", "{EBDA1694-F3B0-4738-A470-B3CB69C2430C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46149026-7CF9-4B70-868D-D12DD6669DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46149026-7CF9-4B70-868D-D12DD6669DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46149026-7CF9-4B70-868D-D12DD6669DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46149026-7CF9-4B70-868D-D12DD6669DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDA1694-F3B0-4738-A470-B3CB69C2430C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDA1694-F3B0-4738-A470-B3CB69C2430C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDA1694-F3B0-4738-A470-B3CB69C2430C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDA1694-F3B0-4738-A470-B3CB69C2430C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC4387A-56BB-4E9D-8B20-0684F718D529}
+	EndGlobalSection
+EndGlobal
